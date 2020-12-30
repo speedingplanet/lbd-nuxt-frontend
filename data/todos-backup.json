@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Initial todo",
+      "todoDate": "2020-12-31"
+    }
+  ]
+}
